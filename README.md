@@ -3,16 +3,6 @@
 ## Authors
 * John Whee-Jin Choi
 
-## Due
-Monday, October 26 at 11:59 PM
-
-## Description
-In Homework 3, we gave you most of the basic logic for a functioning Hangman
-game. As well, you built UI around the game. In Project 2, you'll be putting
-everything together into a well-designed and fully-functional application.
-Note that while many of the required features below have already been implemented
-in Homework 3, some requirements have changed or been refined.
-
 ## Purpose
 [App Name] is a social networking app that allows users to have an avatar 
 (circular emoji face which may be customizable later) that responds to texts 

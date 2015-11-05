@@ -17,7 +17,7 @@ if time permits a smarter ML algorithm
 * Extra Feature: allow hand-written messages to be sent to each other like 
 the Apple Watch
 
-## Control Flowg
+## Control Flow
 * Users are initially presented with a log-in view
 * Once logged in users are logged in there is a tab were users can navigate 
 between different views. For now the current views show a list of friends, 

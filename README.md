@@ -1,17 +1,18 @@
-# App Name
+# Show
 
 ## Authors
 * John Whee-Jin Choi
 
 ## Purpose
-[App Name] is a social networking app that allows users to have an avatar 
-(circular emoji face which may be customizable later) that responds to texts 
-and/or emoji's recieved by another person. 
+Show is a social networking app that allows users to have an avatar 
+(circular emoji face which may be customizable later) that reflects 
+(by changing facial expressions) the emotions of the text message sent 
+by the user. The avatar is viewable by the opposite party.
 
 ## Features
 * Users can add friends
-* Users can send and view messages/gifs/photos/emoji's to each other
-* Avatars will react to messages and/or emoji's recieved with simple logic or 
+* Users can send and view messages to each other
+* Avatars will react to messages and/or emoji's sent with simple logic or 
 if time permits a smarter ML algorithm
 * Extra Feature: allow hand-written messages to be sent to each other like 
 the Apple Watch
@@ -36,6 +37,7 @@ NOTE: Will add more implementation details as project progresses.
 * TabBar
 * NotificationListTableView
 * UserSettingsTableView
+* SendMessageView
 
 ### Controller
 * LoginViewController
@@ -43,3 +45,4 @@ NOTE: Will add more implementation details as project progresses.
 * TabBarController
 * NotificationListTableViewController
 * UserSettingsTableViewController
+* SendMessageViewController

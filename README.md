@@ -16,9 +16,9 @@ http://www.appcoda.com/chat-app-swift-tutorial/
 * User can send and view messages to each other
 * Messages are tagged with an emoji that reflects the emotion of the message
 with simple logic
+* NOTE: need 2 devices to properly run this app (one can be the iOS simulator)
 
 ## Control Flow
-* NOTE: need 2 devices to properly run this app (one can be the iOS simulator)
 * Users are initially presented with a launch screen with the app name shown
 * Once the actual app loads, the user is presented with a table view that shows
 nearby devices that are visible.

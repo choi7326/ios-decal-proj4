@@ -18,6 +18,7 @@ http://www.appcoda.com/chat-app-swift-tutorial/
 with simple logic
 
 ## Control Flow
+* NOTE: need 2 devices to properly run this app (one can be the iOS simulator)
 * Users are initially presented with a launch screen with the app name shown
 * Once the actual app loads, the user is presented with a table view that shows
 nearby devices that are visible.
@@ -60,7 +61,15 @@ a message
 * ViewController.swift - controller for View
 * ChatViewController.swift - controller for ChatView
 
-## Previous Design:
+## Troubleshooting:
+### Cannot open app - Reason: Untrusted Developer 
+* Go to: Settings -> General -> Profile -> select developer -> tap Trust "Developer Email"
+### App Froze
+* Restart app
+### Cannot see nearby devices
+* Toggle the visibility of your device
+
+## Previous Design: (could not get a working version - overly ambitious)
 
 ## Purpose
 Show is a social networking app that allows users to have an avatar 

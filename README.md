@@ -32,7 +32,20 @@ tagged with an emotion (5 emotions for now: happy, sad, laughing, neutral, confu
 
 ## Control Flow Images
 
+### Load Screen
 ![alt tag](https://raw.github.com/choi7326/ios-decal-proj4/master/screenshots/LoadScreen.png)
+
+### Toggle Visibility
+![alt tag](https://raw.github.com/choi7326/ios-decal-proj4/master/screenshots/ChangeVisibility1.png) ![alt tag](https://raw.github.com/choi7326/ios-decal-proj4/master/screenshots/ChangeVisibility2.png)
+
+### Accept Chat
+![alt tag](https://raw.github.com/choi7326/ios-decal-proj4/master/screenshots/AcceptChat.png)
+
+### Chat Screen
+![alt tag](https://raw.github.com/choi7326/ios-decal-proj4/master/screenshots/ChatScreen.png)
+
+### End Chat
+![alt tag](https://raw.github.com/choi7326/ios-decal-proj4/master/screenshots/EndChat.png)
 
 ## Implementation
 ### Model

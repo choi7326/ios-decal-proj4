@@ -64,8 +64,10 @@ a message
 ## Troubleshooting:
 ### Cannot open app - Reason: Untrusted Developer 
 * Go to: Settings -> General -> Profile -> select developer -> tap Trust "Developer Email"
+
 ### App Froze
 * Restart app
+
 ### Cannot see nearby devices
 * Toggle the visibility of your device
 
